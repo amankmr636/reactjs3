@@ -1,0 +1,34 @@
+ h1,footer
+  {color:white;
+  background:transparent;
+  text-shadow: 0 2px 2px black;
+   text-align: center; 
+}
+
+input{
+  width: 50%;
+  padding:10px 20px;
+  background-color:whitesmoke;
+  outline:red;
+  margin: 10px 10px;
+  box-sizing: border-box;  
+
+  text-align: center;
+  font-weight: bold;
+
+}
+
+
+
+
+body{
+line-height: 24px;
+padding:0 20px;
+background:url(best.png);
+color:white;
+border: 10px solid purple;
+outline: greenyellow;
+border-radius: 50px;
+text-transform: uppercase;
+
+}
